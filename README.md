@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -18,9 +18,13 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
+
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
 Figure -01 HALF ADDER
+
+
+![Screenshot (19)](https://github.com/user-attachments/assets/ebc5102c-b12e-4351-9216-c0e990efeff8)
 
 **Half Subtractor**
 
@@ -33,7 +37,22 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
+
+![Screenshot (25)](https://github.com/user-attachments/assets/4b26be1b-13ad-4899-9e68-767e6f32ca27)
+
 **Truthtable**
+
+Half adder
+
+![Screenshot (24)](https://github.com/user-attachments/assets/9e8405fb-8411-44c3-9793-e34ff235569a)
+
+
+
+Half subtractor
+
+
+![Screenshot (23)](https://github.com/user-attachments/assets/51d6a96e-35f7-434c-8a0b-f5dc63e8e15b)
+
 
 **Procedure**
 
@@ -48,14 +67,21 @@ Figure -02 HALF Subtractor
 5.	For different input combinations generate the timing diagram.
 
 
+
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+ Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![Screenshot (22)](https://github.com/user-attachments/assets/8d12fdba-b964-4180-85e1-1fbcf678f841)
 
-Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+![Screenshot (21)](https://github.com/user-attachments/assets/5303acf1-7a99-4917-853a-193eda4cddd7)
+
+
 **Output/TIMING Waveform**
 
+![Screenshot 2024-12-04 160113](https://github.com/user-attachments/assets/8f20aef8-db4a-446b-8fa9-0c1deb50cfaa)
+
 **Result:**
+HALF ADDER AND HALF SUBTRACTER IS DESIGNED AND THE TRUTH TABLE IS VERIFIED
