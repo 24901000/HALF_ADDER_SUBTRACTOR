@@ -1,6 +1,8 @@
-# HALF_ADDER_SUBTRACTOR
+NAME : B.BARKAVI
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+REFERENCE NO : 24901000
+
+EXPERIMENT NO : 3 HALF ADDER SUBTRACTOR
 
 **AIM:**
 
@@ -70,9 +72,6 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/1c1b8cca-4a63-42f1-be80-970b64881370)
 
-Developed by:BARKAVI.B
-
-RegisterNumber:24901000
 
 **RTL Schematic**
 
